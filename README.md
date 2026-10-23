@@ -3,10 +3,14 @@
   Hi! I'm Ali
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/aliyesaedi">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=120&lines=>_+Initializing+system...;>_+Loading+POS+Core+Modules...;>_+Establishing+secure+payment+gateway...;>_+Access+Granted:+Welcome+to+Ali's+Workspace!" alt="Terminal Banner" />
   </a>
+</p> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Ali%20Saedi&fontSize=60&fontAlignY=35&desc=POS%20Terminal%20%26%20Web%20Engineer&descSize=20&descAlignY=65&animation=twinkling" width="100%" alt="Header Banner" />
 </p>
 
 <h3 align="center">POS Programming Specialist & Web Developer 💻</h3>
