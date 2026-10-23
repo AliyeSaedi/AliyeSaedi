@@ -3,11 +3,11 @@
   Hi! I'm Ali
 </h1>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/aliyesaedi">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=120&lines=>_+Initializing+system...;>_+Loading+POS+Core+Modules...;>_+Establishing+secure+payment+gateway...;>_+Access+Granted:+Welcome+to+Ali's+Workspace!" alt="Terminal Banner" />
   </a>
-</p> -->
+</p>
 
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Ali%20Saedi&fontSize=60&fontAlignY=35&desc=POS%20Terminal%20%26%20Web%20Engineer&descSize=20&descAlignY=65&animation=twinkling" width="100%" alt="Header Banner" />
@@ -21,9 +21,9 @@
   <img src="https://komarev.com/ghpvc/?username=aliyesaedi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00FF41&background=0D1117&center=false&vCenter=true&width=850&height=120&lines=aliyesaedi@linux:~%24+./start_pos_core.sh;%5B+%5D+Booting+Terminal+Hardware+Interface...;%5B+%5D+Establishing+Secure+Payment+Socket...;%5B+%5D+Compiling+PHP+%26+C%2B%2B+Modules...;%5B+%5D+System+Online.+Root+Access+Granted!" alt="Linux Terminal Banner" />
-</p>
+</p> -->
 
 <h3 align="center">POS Programming Specialist & Web Developer 💻</h3>
 
