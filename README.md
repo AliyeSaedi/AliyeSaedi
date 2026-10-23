@@ -9,8 +9,12 @@
   </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Ali%20Saedi&fontSize=60&fontAlignY=35&desc=POS%20Terminal%20%26%20Web%20Engineer&descSize=20&descAlignY=65&animation=twinkling" width="100%" alt="Header Banner" />
+</p> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ali%20Saedi&fontSize=60&fontAlignY=35&desc=POS%20and%20Web%20Engineer&descSize=20&descAlignY=65&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
 <h3 align="center">POS Programming Specialist & Web Developer 💻</h3>
