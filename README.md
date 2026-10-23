@@ -41,16 +41,20 @@
 * **Payment Integration:** Connecting digital platforms with secure banking and financial gateways.
 * **Web Infrastructure:** Creating custom PHP solutions and managing high-performance web environments.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliyesaedi&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</p>
 
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://t.me/imneosa">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/imneosa">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:alisaedi.it@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="mailto:ali.saedi@kiancell.com">
+    <img src="https://img.shields.io/badge/Work_Email-005571?style=for-the-badge" alt="Work Email" />
   </a>
 </p>
