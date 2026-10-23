@@ -39,4 +39,18 @@
 
 * **POS Terminal Development:** Designing and implementing robust, low-level software for card readers and physical payment terminals.
 * **Payment Integration:** Connecting digital platforms with secure banking and financial gateways.
-* **Web Infrastructure
+* **Web Infrastructure:** Creating custom PHP solutions and managing high-performance web environments.
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliyesaedi&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+</p>
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
